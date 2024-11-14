@@ -1,6 +1,6 @@
 # Задание 1
 
-## Скрин комманд, выполенных для запуска
+## Скрин комманд
 
 ![Иллюстрация к проекту](https://github.com/randnull/sre-hw-6/blob/main/photo/run1.png)
 ![Иллюстрация к проекту](https://github.com/randnull/sre-hw-6/blob/main/photo/run2.png)
